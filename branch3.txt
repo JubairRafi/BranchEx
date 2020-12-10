@@ -1,0 +1,5 @@
+this is branch3 text file
+we are writing in branch3
+
+doing something before stash..
+doing something after geting back from another branch and poping stash data..
